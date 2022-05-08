@@ -1,0 +1,1 @@
+wget -O "koncep512-model.h5" "http://datasets.vqa.mmsp-kn.de/archives/koncep512-trained-model.h5"

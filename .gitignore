@@ -1,0 +1,9 @@
+ugc/
+__pycache__
+.vscode
+.ipynb_checkpoints
+*.mp4
+*.mkv
+*.yuv
+*.zip
+*.h5
